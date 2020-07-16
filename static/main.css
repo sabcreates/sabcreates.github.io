@@ -19,10 +19,13 @@
 .blog-entry{
 	background-color: rgb(230, 238, 255);
 	text-align: left;
-
 	border-style: solid;
+	margin-left: 100px;
+	margin-right: 100px;
 	border-color: rgb(230, 238, 255);
 	border-radius: 5px;
 	font-family: 'Montserrat', sans-serif;
 	color: grey;
-}
+	
+
+
