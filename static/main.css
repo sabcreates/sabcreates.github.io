@@ -1,21 +1,27 @@
 .menu{
-	font-weight: bold;
+	font-weight: bolder;
 	font-size: 24px; 
 	width: 100%;
-	background-color: pink;
+	background-color: rgb(243, 218, 190);
 	color: white;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Lora', serif;
 	text-align: center;
 }
 .blog-title{
 	font-size: 24px;
+		font-style: italic;
 	font-weight: bold;
+	color: rgb(153, 187, 255);
 	text-align: center;
+	font-family: 'Lora', serif
+	
 }
 .blog-entry{
-	font-family: 'Playfair Display', serif;
-	text-align: center;
+	background-color: rgb(230, 238, 255);
+	text-align: left;
+	
 	border-style: solid;
 	border-color: grey;
 	border-radius: 5px;
+	font-family: 'Montserrat', sans-serif;
 }
