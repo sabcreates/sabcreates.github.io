@@ -11,7 +11,7 @@
 	font-size: 24px;
 		font-style: italic;
 	font-weight: bold;
-	color: rgb(153, 187, 255);
+	color: rgb(153, 179, 255);
 	text-align: center;
 	font-family: 'Lora', serif
 	
@@ -19,9 +19,10 @@
 .blog-entry{
 	background-color: rgb(230, 238, 255);
 	text-align: left;
-	
+
 	border-style: solid;
-	border-color: grey;
+	border-color: rgb(230, 238, 255);
 	border-radius: 5px;
 	font-family: 'Montserrat', sans-serif;
+	color: grey;
 }
