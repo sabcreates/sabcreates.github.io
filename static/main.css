@@ -14,21 +14,44 @@
 	color: rgb(153, 179, 255);
 	text-align: center;
 	font-family: 'Lora', serif
+}
+
+.entry-title{
+	color: pink;
+	font-family: 'Lora', serif
+		font-size: 100px;
+		font-style: italic;
+	background-color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 20px;
+		
+}
+
+.blog-entry{
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Montserrat', sans-serif;
+		font-weight: bold;
+		font font-size: 20px;
+		color: grey;
 	
 }
-.blog-entry{
-	background-color: rgb(230, 238, 255);
-	text-align: left;
-	border-style: solid;
-	margin-left: 100px;
-	margin-right: 100px;
-	border-color: rgb(230, 238, 255);
-	border-radius: 5px;
-	font-family: 'Montserrat', sans-serif;
-	color: grey;
-.column1{
-	background-color: blue;
+.column{
+	text-align: center;
+	border-radius: 20px;
 }
 
+.row{
+	margin-left: 100px;
+	margin-right: 100px;
+}
 
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  width: 105%;
+}
